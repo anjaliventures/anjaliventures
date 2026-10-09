@@ -1,9 +1,7 @@
 👋 Hi, I'm Anjali
+Aspiring Data Analyst | Skilled in Python, SQL, Power BI & Excel | Passionate about data-driven insights and continuous learning.
 
-<!--
-**anjaliventures/anjaliventures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Email me at: aggarwalanjali910@gmail.com
 
 - 🔭 I’m currently working on Airline Flight Analysis
 - 🌱 I’m currently learning Data analytics

@@ -1,4 +1,5 @@
 👋 Hi, I'm Anjali
+
 Aspiring Data Analyst | Skilled in Python, SQL, Power BI & Excel | Passionate about data-driven insights and continuous learning.
 
 Email me at: aggarwalanjali910@gmail.com

@@ -11,5 +11,5 @@ Email me at: aggarwalanjali910@gmail.com
  Ask me about Python, SQL, Power BI, Excel, and Data Cleaning.
  How to reach me: Connect with me on LinkedIn.
  Pronouns: She/Her
- Fun fact: I enjoy turning raw data into meaningful insights and interactive dashboards!
+ Fun fact: I enjoy turning raw data into meaningful insights and interactive dashboards
 
